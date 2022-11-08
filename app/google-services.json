@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967107264533",
+    "project_id": "quotes-app-cbcea",
+    "storage_bucket": "quotes-app-cbcea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967107264533:android:1c28c8487db29031c84e1c",
+        "android_client_info": {
+          "package_name": "com.sunayanpradhan.quotesapptutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967107264533-bl7n8lruk0vu4shm3o4h8t82rbmdv6qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq4LYJ4cfZxyINBRq79jrx4hwYXv8Rzjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967107264533-bl7n8lruk0vu4shm3o4h8t82rbmdv6qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
